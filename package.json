@@ -1,0 +1,29 @@
+{
+  "name": "ts-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot made with ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsaneH4/TsBot.git"
+  },
+  "author": "Sam Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsaneH4/TsBot/issues"
+  },
+  "homepage": "https://github.com/InsaneH4/TsBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
