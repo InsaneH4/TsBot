@@ -2,10 +2,10 @@
   "name": "ts-discord-bot",
   "version": "1.0.0",
   "description": "Discord bot made with ts",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/bot.ts"
   },
   "repository": {
     "type": "git",
